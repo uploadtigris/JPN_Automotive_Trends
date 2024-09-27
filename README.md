@@ -6,8 +6,6 @@ An investigation into the trends in the Japanese automotive industry
 2. What is the correlation between Japan’s motor vehicle and motorcycle production/export data and its overall economic performance? How do these industries contribute to Japan’s GDP?
 3. How have major global events (e.g., economic crises, pandemics, trade agreements) influenced Japan’s motor vehicle and motorcycle production and export trends?
 
-### Addressing Question 1
-
 ### Original Files
 Production - Motor vehicle 1993-2024.csv<br>
 Production - Motor vehicle 1993-2024.csv<br>
