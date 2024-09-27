@@ -16,7 +16,7 @@ Export - Motorcycle 1993-2024.csv<br>
 
 ### Links to Datasets
 
-[Production and Exports Motorcylce / Motor vehicles](https://jamaserv.jama.or.jp/newdb/eng/index.html)<br>
+[Production and Exports Motorcycle / Motor vehicles](https://jamaserv.jama.or.jp/newdb/eng/index.html)<br>
 [Real GDP for Japan](https://fred.stlouisfed.org/series/JPNRGDPEXP#0)<br>
 [Global price of Brent Crude ($ per barrel)](https://fred.stlouisfed.org/series/POILBREUSDM)<br>
 
