@@ -13,6 +13,8 @@ Production - Motor vehicle 1993-2024.csv<br>
 Production - Motor vehicle 1993-2024.csv<br>
 Export - Motorcycle 1993-2024.csv<br>
 Export - Motorcycle 1993-2024.csv<br>
+Real Gross Domestic Product for Japan.csv<br>
+Global price of Brent Crude ($perBarrel)<br>
 
 ### Links to Datasets
 
