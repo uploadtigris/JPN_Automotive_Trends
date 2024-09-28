@@ -2,6 +2,7 @@
 An investigation into the trends in the Japanese automotive industry
 
 ![Prius](Images/Prius.png)
+<img src="Images/Prius.png" width="300" />
 
 ### Motivating Research Questions
 1. How have the production and export trends of motor vehicles and motorcycles in Japan evolved from 1993 to 2024? Are there any noticeable patterns or significant changes during this period?
