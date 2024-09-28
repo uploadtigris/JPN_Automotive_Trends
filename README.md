@@ -1,6 +1,10 @@
 # JPN_Automotive_Trends
 An investigation into the trends of the Japanese automotive industry
 
+### Summary
+
+As of 2024, ["Japanese automakers collectively hold a 30% share of the global auto market, including gasoline vehicles."](https://japannews.yomiuri.co.jp/business/economy/20240520-186976/) 
+
 ![Prius](Images/Prius.jpg)
 
 ### Motivating Research Questions
@@ -12,6 +16,8 @@ An investigation into the trends of the Japanese automotive industry
 - Make chart with Real GDP, Seasonally-adjusted employment rate, population
 ### Question 2
 ### Question 3
+- See [Japan disaster history data](https://www.worlddata.info/asia/japan/volcanoes.php) (considered mapping these in ArcGIS)
+- Compare disasters to economic and production/export data
 
 ### Original Files
 Production - Motor vehicle 1993-2024.csv<br>
