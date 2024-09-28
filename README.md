@@ -1,5 +1,5 @@
 # JPN_Automotive_Trends
-An investigation into the trends in the Japanese automotive industry
+An investigation into the trends of the Japanese automotive industry
 
 ![Prius](Images/Prius.jpg)
 
