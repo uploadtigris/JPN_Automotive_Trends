@@ -15,6 +15,8 @@ As of 2024, ["Japanese automakers collectively hold a 30% share of the global au
 ### Question 1
 - Make chart with Real GDP, Seasonally-adjusted employment rate, population
 ### Question 2
+- Consider additional economic indicator besides employment, gdp, and brent crude price
+- convert $ per barrel to yen
 ### Question 3
 - See [Japan disaster history data](https://www.worlddata.info/asia/japan/volcanoes.php) (considered mapping these in ArcGIS)
 - Compare disasters to economic and production/export data
