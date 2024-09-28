@@ -1,11 +1,11 @@
 # JPN_Automotive_Trends
 An investigation into the trends of the Japanese automotive industry
 
+![Prius](Images/Prius.jpg)
+
 ### Summary
 
 As of 2024, ["Japanese automakers collectively hold a 30% share of the global auto market, including gasoline vehicles."](https://japannews.yomiuri.co.jp/business/economy/20240520-186976/) Being the [leader in automotive manufacturing](https://worldpopulationreview.com/country-rankings/car-production-by-country), Automotive manufacturing accounts for [2.9%](https://www.trade.gov/country-commercial-guides/japan-automotive) of its GDP. We would like to know how influential this industry is to Japan and how natural disasters may impact its performance. 
-
-![Prius](Images/Prius.jpg)
 
 ### Motivating Research Questions
 1. How have the production and export trends of motor vehicles and motorcycles in Japan evolved from 1993 to 2024? Are there any noticeable patterns or significant changes during this period?
